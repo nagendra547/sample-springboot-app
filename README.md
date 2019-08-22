@@ -3,13 +3,16 @@ A simple rest based application created using spring-boot
 
 ## Steps to build
 
-### cd to sample-springboot-app.
+### Clone
+git clone https://github.com/nagendra547/springboot-app.git
+
+### cd to sample-springboot-app folder
 ```cd sample-springboot-app```
 
-### Build using maven
+### Build the java project using maven
 ```mvn clean install```
 
-### Run
+### Run the application
 ```java -jar target/spring-boot-web-0.0.1-SNAPSHOT.jar```
 
 Once this app is running, you should see a notification in console
